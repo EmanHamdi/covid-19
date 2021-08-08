@@ -1,0 +1,28 @@
+.row{
+    display: flex;
+    flex-direction: row;
+}
+.contanier{
+    margin-bottom: 22px;
+}
+.title{
+    color:red;
+}
+.mt-5{
+    margin-top: 20px;
+}
+.p-16{
+    text-align: center;
+}
+agm-map {
+    height: 100vh;
+    width: 70%;
+  }
+  .card-preview .fuse-card{
+    min-width: 280px;
+    margin-right: 10px;
+    cursor: pointer;
+    &:hover{
+        background-color: rgb(194, 194, 194);
+    }
+  }
